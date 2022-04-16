@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ba8940d-2250-4bc1-91ba-032d1758e73e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/serialization/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/codec/serialization/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +102,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -115,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="expamle: 添加 serialization 案例&#10;&#10;json&amp;protobuf benchmark 压测案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="expamle: 添加 serialization 案例&#10;&#10;json&amp;protobuf benchmark 压测案例" />
+    <MESSAGE value="codec 修复 readme 文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="codec 修复 readme 文件" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -165,10 +170,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1650095916981" />
-    <state x="496" y="296" key="Vcs.Push.Dialog.v2" timestamp="1650095920984">
+    <state x="496" y="296" key="Vcs.Push.Dialog.v2" timestamp="1650096594021">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="296" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1650095920984" />
+    <state x="496" y="296" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1650096594021" />
     <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1650093160640">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
