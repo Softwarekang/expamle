@@ -1,0 +1,10 @@
+// bin bash: protoc --go_out=. *.proto
+syntax = "proto3";
+option go_package = "/pb";
+
+// object for student
+message Student {
+  string name = 1;
+  bool male = 2;
+  repeated int32 scores = 3;
+}
